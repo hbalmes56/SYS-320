@@ -71,6 +71,8 @@ do
 	echo "Please select and option:"
 	echo "[1] Display courses of an instructor"
 	echo "[2] Display course count of instructors"
+	echo "[3] Display all courses in a given location"
+	echo "[4] Display all courses with availability"
 	echo "[5] Exit"
 
 	read userInput
